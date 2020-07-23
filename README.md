@@ -1,2 +1,2 @@
-# UMN-Data_Analytics-Project_01
-This repository contains Project #1 for the University of Minnesota's Data Analytics Bootcamp.
+# {Project Title Here}
+<em>Kelsey Richardson Blackwell, Will Huang, Albin Joseph, & Aaron Wollman</em>
