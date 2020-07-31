@@ -1,5 +1,5 @@
 # Billboard's Top 100 and Unemployment
-<em>Kelsey Richardson Blackwell, Will Huang, Albin Joseph, & Aaron Wollman</em>
+<em>Kelsey Richardson Blackwell, Will Huang, & Aaron Wollman</em>
 
 ## Description
 Does the U.S.’s economic health influence which songs are in the Top 100? 
